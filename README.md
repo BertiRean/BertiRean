@@ -1,5 +1,8 @@
 ## Hey there, I'm Antonio Berti
 
+![My Codewars Badges](https://www.codewars.com/users/BertiRean/badges/large)
+
+
 I'm a Computer Engineer, who has been involved in different projects during his professional lifetime. Most of the projects were related with WoW emulation using C++ as main language and other languages like C# and Python for the creation of tools that make the develop process more easy for the common tasks. Beside that I've worked also with Backend technologies related to web applications like NextJS, React, FastAPI, NodeJS, and ASP .NET. The use of different technologies and/or programming paradigms have been exremely useful and allow me face new challenges with more confidence.
 
 I also consider myself a great book reader, because it's the way that has help me to understand and grap new concepts in a quickly way before applicate in real life projects. A couple of books that I recomment are:
@@ -13,6 +16,7 @@ I also consider myself a great book reader, because it's the way that has help m
 
 
 If you want to know part of my contributions or personal projects, feel free to check my repos
+
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=BertiRean&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
